@@ -1,0 +1,53 @@
+html{
+  scroll-behavior:smooth;
+}
+    body{
+      background:#f0728d;
+    }
+
+    main{
+      display: block;
+      margin:auto;
+      width: 500px;
+
+    }
+    /* I centered the main tag */
+    .center{
+     display:block;
+     margin-right: auto;
+     margin-left: auto;
+     width: 283px;
+     }
+    body{
+      font-size:48px;
+      font-family:Bungee Shade;
+      font-style:regular;
+      line-height:48;
+
+      font-size:32px;
+      font-family:Pathway Gothic One;
+      font-style:regular;
+      line-height:37px;
+
+      font-size:20px;
+      font-family:Inter;
+      font-style:semi-bold;
+      line-height:24px;
+    }
+    li{
+      line-height:100%;
+    }
+    a{
+      color:#62074E;
+    }
+    img{
+      max-width:100%;
+    }
+    .cover-art{
+      width:80%;
+    }
+    .album-art{
+      width:80%;
+/*Images from Amazon and Spotify*/
+    }
+  /* April helped edit my tags correctly */
